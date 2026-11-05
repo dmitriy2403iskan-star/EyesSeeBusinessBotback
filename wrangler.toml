@@ -1,0 +1,7 @@
+name = "eyessee-business-bot"
+main = "src/index.ts"
+compatibility_date = "2026-11-05"
+workers_dev = true
+
+[observability]
+enabled = true
